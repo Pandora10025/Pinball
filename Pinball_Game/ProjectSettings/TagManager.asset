@@ -5,7 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ball
-  - Floor
+  - Wall
+  - Dead
+  - Point
+  - Flipper
+  - Color_bouncer
+  - Bucket_Bouncer
+  - 'Thimble_Points '
   layers:
   - Default
   - TransparentFX
